@@ -6,7 +6,7 @@ export default function Login() {
         ev.preventDefault()
     }
     return (
-        <div className="login-signup-form animated fadeInDown">
+        <div className="login-signup-form animated fadeIn   Down">
             <div className="form">
                 <form onSubmit={onSubmit}>
                     <h1 className="title">Login into your</h1>
